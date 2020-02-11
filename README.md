@@ -4,8 +4,6 @@ A beauty service scheduling software for barber shops.
 - Summary
   - [Usage](#usage)
   - [Technologies](#technologies)
-  - [Installation](#installation)
-  - [License](#license)
 
 ## Usage
 
