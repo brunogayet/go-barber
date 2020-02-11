@@ -1,5 +1,5 @@
 # GoBarber
-A beauty service scheduling software for barber shops.
+A beauty service scheduling software for barber shops...
 
 - Summary
   - [Usage](#usage)
