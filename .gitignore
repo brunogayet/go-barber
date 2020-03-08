@@ -6,3 +6,8 @@
 #debbuging
 /.vscode*
 
+#tmp uploads files
+/tmp/uploads/*
+
+#.env file
+.env
